@@ -1,0 +1,38 @@
+{
+    "bpm": 117.82299041748047,
+    "frame_duration": 0.045,
+    "frames": [
+        {
+            "frame": 331,
+            "coordinates": [ false, true, false, true, false, false, false, false ]
+        },
+        {
+            "frame": 361,
+            "coordinates": [ false, true, false, true, false, false, false, false ]
+        },
+        {
+            "frame": 381,
+            "coordinates": [ false, true, false, true, false, false, false, false ]
+        },
+        {
+            "frame": 394,
+            "coordinates": [ false, true, false, true, false, false, false, false ]
+        },
+        {
+            "frame": 407,
+            "coordinates": [ false, true, false, true, false, false, false, false ]
+        },
+        {
+            "frame": 458,
+            "coordinates": [ false, true, false, true, false, false, false, false ]
+        },
+        {
+            "frame": 548,
+            "coordinates": [ false, true, false, true, false, false, false, false ]
+        },
+        {
+            "frame": 566,
+            "coordinates": [ false, true, false, true, false, false, false, false ]
+        }
+    ]
+}

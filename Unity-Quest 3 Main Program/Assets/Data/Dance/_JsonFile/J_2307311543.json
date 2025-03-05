@@ -1,0 +1,66 @@
+{
+    "bpm": 117.82299041748047,
+    "frame_duration": 0.04,
+    "frames": [
+        {
+            "frame": 160,
+            "coordinates": [ true, false, false, false, false, false, false, false ]
+        },
+        {
+            "frame": 177,
+            "coordinates": [ true, false, false, false, false, false, false, false ]
+        },
+        {
+            "frame": 198,
+            "coordinates": [ false, false, true, false, false, false, false, false ]
+        },
+        {
+            "frame": 215,
+            "coordinates": [ false, false, true, false, false, false, false, false ]
+        },
+        {
+            "frame": 238,
+            "coordinates": [ false, true, false, true, false, false, false, false ]
+        },
+        {
+            "frame": 292,
+            "coordinates": [ false, true, false, true, false, false, false, false ]
+        },
+        {
+            "frame": 332,
+            "coordinates": [ false, true, false, true, false, false, false, false ]
+        },
+        {
+            "frame": 374,
+            "coordinates": [ false, true, false, true, false, false, false, false ]
+        },
+        {
+            "frame": 392,
+            "coordinates": [ false, true, false, false, false, false, false, false ]
+        },
+        {
+            "frame": 407,
+            "coordinates": [ false, true, false, false, false, false, false, false ]
+        },
+        {
+            "frame": 432,
+            "coordinates": [ false, true, false, false, false, false, false, false ]
+        },
+        {
+            "frame": 450,
+            "coordinates": [ false, true, false, false, false, false, false, false ]
+        },
+        {
+            "frame": 484,
+            "coordinates": [ false, true, false, false, false, false, false, false ]
+        },
+        {
+            "frame": 512,
+            "coordinates": [ false, false, false, true, false, false, false, false ]
+        },
+        {
+            "frame": 512,
+            "coordinates": [ false, false, false, true, false, false, false, false ]
+        }
+    ]
+}
